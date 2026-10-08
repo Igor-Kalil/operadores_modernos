@@ -25,3 +25,5 @@ console.log('3. Ativo e false -> Status:', status3); // false
 const usuario4 = { nome: 'Pedro', ativo: true };
 const status4 = usuario4?.ativo ?? 'Desconhecido';
 console.log('4. Ativo e true -> Status:', status4); // true
+
+//teste
