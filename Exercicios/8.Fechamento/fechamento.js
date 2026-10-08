@@ -1,0 +1,1 @@
+// O "||" Retorna o primeiro valor Truthy. E se for Falsy, pega o proximo. Já o "??" Define um valor padrao APENAS se for 'null' ou 'undefined', se for qualquer outro resultado, o valor virá padrão e desconciderara o "??.".
